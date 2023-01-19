@@ -1,0 +1,38 @@
+id,name,Typ,Verein,Jugendverein,Land,Am,MW,Einsatz
+vfb1,Florian Mueller,1,vfb,fsvj,,,,1
+vfb2,Waldemar Anton,1,vfb,han,,,,1
+vfb3,Wataru Endo,1,vfb,shb,,,,1
+vfb4,Josha Vagnoman,1,vfb,hsv,,,,1
+vfb5,Konstantinos Mavropanos,1,vfb,smy,,,,1
+vfb7,Tanguy Coulibaly,1,vfb,psg,,,,1
+vfb8,Enzo Millot,1,vfb,asm,,,,1
+vfb9,Serhou Guirassy,1,vfb,stl,,,,1
+vfb10,Tiago Tomas,1,vfb,spo,,,,1
+vfb11,Juan Jose Perea,1,vfb,por,,,,1
+vfb14,Silas Katompa Mvumpa,1,vfb,pfc,,,,1
+vfb15,Pascal Stenzel,1,vfb,bvbj,,,,1
+vfb16,Atakan Karazor,1,vfb,bocj,,,,1
+vfb20,Luca Pfeiffer,1,vfb,stk,,,,1
+vfb21,Hiroki Ito,1,vfb,iwa,,,,1
+vfb22,Chris Fuehrich,1,vfb,rwo,,,,1
+vfb23,Dan-Axel Zagadou,1,vfb,psg,,,,1
+vfb24,Borna Sosa,1,vfb,zag,,,,1
+vfb25,Lilian Egloff,1,vfb,vfbj,,,,1
+fsvj,FSV Mainz 05 Jugend,2,fsv,,,0,,
+han,Hannover 96,2,han,,,0,,
+shb,Shonan Bellemare,2,shb,,,0,,
+hsv,Hamburger SV,2,hsv,,,0,,
+smy,Apollon Smyrnis,2,smy,,,0,,
+psg,Paris Saint-Germain,2,psg,,,0,,
+asm,AS Monaco,2,asm,,,0,,
+stl,Stade Laval,2,stl,,,0,,
+spo,Sporting Lissabon,2,spo,,,0,,
+prt,FC Porto,2,prt,,,0,,
+pfc,Paris FC,2,pfc,,,0,,
+bvbj,Borussia Dortmund Jugend,2,bvb,,,0,,
+bocj,VfL Bochum Jugend,2,boc,,,0,,
+stk,SV Stuttgarter Kickers,2,stk,,,1,,
+iwa,Jubilo Iwata,2,iwa,,,0,,
+rwo,Rot-Weiß Oberhausen,2,rwo,,,1,,
+zag,Dinamo Zagreb,2,zag,,,0,,
+vfbj,VfB Stuttgart Jugend,2,vfbj,,,0,,
